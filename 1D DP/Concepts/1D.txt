@@ -1,2 +1,9 @@
 jitne variables chnage ho rahe hai, memoization me utne dimension ka hi array lena hota hai in most of the cases.
 take array size as per the contraints, genreally we take array size n+1 to avoid out of the bound, initially intialize all the array by -1
+
+note : whenever we write base case of any recursion function, jis param pe rec chal raha hai uska valid smallest value ko base case me likhte hai 
+
+bottom up :
+we have to define state 
+state define means kisi ek state ko pakdo aur uska matlab kya hai voh smjho 
+dp[i]=ith fibonacci number // this is for fibo 
