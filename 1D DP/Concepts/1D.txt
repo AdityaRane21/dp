@@ -7,3 +7,5 @@ bottom up :
 we have to define state 
 state define means kisi ek state ko pakdo aur uska matlab kya hai voh smjho 
 dp[i]=ith fibonacci number // this is for fibo 
+main idea behind bottom up is solve for smaller sub problems then go for bigger ones 
+
